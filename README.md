@@ -8,3 +8,4 @@ A beautiful and modern web application built with Python and Gradio to generate 
 - Real-time error handling
 
 ## 🛠️ Installation
+2do
